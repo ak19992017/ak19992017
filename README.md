@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak19992017&label=Profile%20views&color=0e75b6&style=flat" alt="ak19992017" /> </p>
 
-- 🔭 I’m currently working on **APIs**
-
 - 🌱 I’m currently learning **React & Flutter**
 
 - 📫 How to reach me **ak19992017@gmail.com**
