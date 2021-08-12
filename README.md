@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋, I'm Aditya</h1>
+<h3 align="center">A passionate frontend developer from :india:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak19992017&label=Profile%20views&color=0e75b6&style=flat" alt="ak19992017" /> </p>
 
-- 🌱 I’m currently learning **React & Flutter**
+ 🌱 I’m currently learning **React & Flutter**
 
-- 📫 How to reach me **ak19992017@gmail.com**
+ 📫 How to reach me **ak19992017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
