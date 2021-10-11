@@ -6,6 +6,32 @@
  🌱 I’m currently learning **React & Flutter**
 
  📫 How to reach me **ak19992017@gmail.com**
+ 
+
+<a href="https://www.buymeacoffee.com/awesomeaditya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+Buy me a coffeeBuy me a coffee
+Prev article
+How to write a custom URL extractor for Rasa
+Next article
+How to Test Your Python Code in OSX using Travis CI
+Loading...
+Latest Articles
+1
+Simple Way to Use Ghost via Docker
+2
+This Template Helped Me Land a Job in Cologne 🇩🇪
+3
+I Built a File Upload/Download Service Out of Frustration
+4
+Handling Custom Django Error Pages the Proper Way
+5
+How to Deploy Django Static Files in Nginx
+Newsletter
+Stay up to date! Get all the latest & greatest posts delivered straight to your inbox
+
+    Python 30
+    Flask 7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
