@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Aditya</h1>
+<h1 align="center">👋, I'm Aditya Kumar 🌈🦄</h1>
 <h3 align="center">A passionate frontend developer from :india:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak19992017&label=Profile%20views&color=0e75b6&style=flat" alt="ak19992017" /> </p>
